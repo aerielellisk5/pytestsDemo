@@ -5,19 +5,26 @@ import pytest
 
 
 
-@pytest.mark.smoke
-def test_firstProgram(setup):
+# @pytest.mark.smoke
+# def test_firstProgram(setup):
+#     print("Hello")
+
+
+# @pytest.mark.xfail
+# def test_SecondGreetCreditCard():
+#     print("Good Morning")
+
+
+# def test_crossBrowser(crossBrowser):
+#     print(crossBrowser[1])
+
+
+def test_firstProgram():
     print("Hello")
 
 
-@pytest.mark.xfail
-def test_SecondGreetCreditCard():
+def test_Greet():
     print("Good Morning")
-
-
-def test_crossBrowser(crossBrowser):
-    print(crossBrowser[1])
-
 
 
 

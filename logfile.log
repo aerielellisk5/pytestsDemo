@@ -5,3 +5,9 @@
 2019-10-27 17:11:11,713 :INFO : test_editProfile :Rahul
 2019-10-27 17:11:11,713 :INFO : test_editProfile :rahulshettyacademy.com
 2019-10-27 17:11:11,737 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-03-05 05:30:17,884 :INFO : test_editProfile :Rahul
+2024-03-05 05:30:17,885 :INFO : test_editProfile :rahulshettyacademy.com
+2024-03-05 05:30:17,887 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-03-05 05:31:12,468 :INFO : test_editProfile :Rahul
+2024-03-05 05:31:12,469 :INFO : test_editProfile :rahulshettyacademy.com
+2024-03-05 05:31:12,470 :CRITICAL : pytestsDemo.test_logging :Critical issue
